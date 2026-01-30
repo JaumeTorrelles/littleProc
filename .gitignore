@@ -1,0 +1,18 @@
+# Quartus directories
+db/
+incremental_db/
+/Projecte/db/
+/Projecte/incremental_db/
+
+# Quartus output files
+*.rpt
+*.sof
+*.pof
+*.done
+*.summary
+*.qws
+*.bak
+*.smsg
+*.qdf
+*.jdi
+*.pin
