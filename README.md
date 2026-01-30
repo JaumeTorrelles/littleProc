@@ -18,4 +18,4 @@ A full CPU implementation based on the LittleProc architecture, developed as a c
 
 ## Usage
 
-This project was built using **Quartus II 9.0sp2 Web Edition**. Open the `Projecte/LittleProc.qpf` file with this version (or compatible newer versions) to load the project.
+This project was built using **Quartus II 9.0sp2 Web Edition**. Open the `Projecte/LittleProc.qpf` to load the project.
