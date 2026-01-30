@@ -7,8 +7,6 @@ A full CPU implementation based on the LittleProc architecture, developed as a c
 
 ## Schematics
 
-High-quality vector schematics are available in the PDF documentation. These are vector files, ensuring no loss of quality when zoomed:
-
 - [Top Level Architecture (LittleProc)](littleProc.pdf)
 - [Processing Unit (UP)](UP.pdf)
 - [Control Unit (UC)](UC.pdf)
@@ -16,7 +14,7 @@ High-quality vector schematics are available in the PDF documentation. These are
 ## Structure
 
 - `Projecte/`: Contains the VHDL/Schematic source files and Quartus project.
-- `*.pdf`: Documentation and schematics.
+- `*.pdf`: Schematics.
 
 ## Usage
 
